@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">اسم المستخدم</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="password">كلمه السر</string>
+    <string name="re_enter_password">تأكيد كلمه السر</string>
+</resources>
